@@ -20,3 +20,11 @@ php bin/console hautelook:fixtures:load
 ## Yarn
 
 https://yarnpkg.com/getting-started/install#global-install
+
+## Docker
+
+get into bash
+
+```
+docker-compose exec NAME bash
+```
